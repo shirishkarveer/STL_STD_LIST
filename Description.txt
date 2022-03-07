@@ -1,9 +1,9 @@
 /*
 Section 20
-Challenge 2
+Project 2
 Using std::list
 
-In this challenge you will create a menu driven application that
+In this Project you will create a menu driven application that
 will simulate a user playing songs from a playlist of songs.
 
 We will use a list to simulate the user selecting the the first song in the playlist and
